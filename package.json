@@ -39,7 +39,7 @@
 		"typescript": "^3.9.5"
 	},
 	"dependencies": {
-		"mathlive": ">= 0.55.0 < 1",
+		"mathlive": "github:EdiaLearning/mathlive#master",
 		"react": "^16.7.0",
 		"react-dom": "^16.7.0"
 	}
